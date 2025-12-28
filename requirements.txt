@@ -1,0 +1,6 @@
+yt-dlp[default]
+mutagen
+SecretStorage
+pycryptodome
+keyring
+cryptography

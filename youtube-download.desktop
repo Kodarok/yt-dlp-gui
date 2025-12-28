@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=YT-DLP GUI
+Exec=%h/Applications/yt-dlp-gui/youtube-download-gui.py
+Icon=video-x-generic
+Terminal=false
+Type=Application
+Categories=Video;Network;

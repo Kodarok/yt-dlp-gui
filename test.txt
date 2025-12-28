@@ -1,0 +1,2 @@
+yt-dlp -o '/home/jp/Téléchargements/%(title)s.%(ext)s' --force-overwrites --add-metadata --user-agent 'Mozilla/5.0 (X11; Linux x86_64)' -f 'bestvideo[height<=480]+bestaudio/best' --no-playlist 'https://www.youtube.com/watch?v=9KY80mvOC50'
+python3-tk
